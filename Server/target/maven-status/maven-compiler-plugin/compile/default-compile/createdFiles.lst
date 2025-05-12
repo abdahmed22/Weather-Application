@@ -1,0 +1,7 @@
+com/example/weatherapp/model/WeatherData.class
+com/example/weatherapp/service/TcpServer$SensorHandler.class
+com/example/weatherapp/service/WeatherService.class
+com/example/weatherapp/model/WeatherResponse.class
+com/example/weatherapp/service/TcpServer.class
+com/example/weatherapp/WeatherAppApplication.class
+com/example/weatherapp/controller/WeatherController.class
